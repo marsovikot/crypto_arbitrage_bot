@@ -1,0 +1,8 @@
+ccxt
+pytz
+python-dotenv
+aiohttp
+fastapi
+uvicorn
+jinja2
+PyQt6
